@@ -20,3 +20,4 @@ Si se detecta una incidencia en la maestra, se crea una rama de corrección a pa
 Una vez que la corrección está completa, se fusiona tanto con la de desarrollo como con la maestra.
 Adjunta un pantallazo del comando git log --oneline --decorate --graph --all
 Una vez subido el repositorio CON TODAS SUS RAMAS, adjunta un pantallazo del apartado de GitHub "Insights"/"Network graph" # practica5-git--git-creando-ramas-bmleon
+fusionar morado con verde
