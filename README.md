@@ -21,9 +21,13 @@ Una vez que la corrección está completa, se fusiona tanto con la de desarrollo
 Adjunta un pantallazo del comando git log --oneline --decorate --graph --all
 Una vez subido el repositorio CON TODAS SUS RAMAS, adjunta un pantallazo del apartado de GitHub "Insights"/"Network graph" # practica5-git--git-creando-ramas-bmleon
 <<<<<<< HEAD
+<<<<<<< HEAD
 fusionar morado con naranja
 =======
 hacer commit en feature2
 >>>>>>> feature2
 hacer un commit en amarillo
 
+=======
+hacer commit en release
+>>>>>>> release
